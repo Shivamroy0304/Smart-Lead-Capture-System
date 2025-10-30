@@ -97,7 +97,9 @@ Publish site ✅
 Rule criteria:  
 `Lead Source = Web`
 
-Template example: 
+
+ 
 <img width="571" height="269" alt="Screenshot 2025-10-30 at 6 57 54 PM" src="https://github.com/user-attachments/assets/a40aab41-503b-47e5-a949-b46bc1b98881" />
+<img width="686" height="273" alt="Screenshot 2025-10-30 at 7 08 12 PM" src="https://github.com/user-attachments/assets/39c84c63-8243-44dd-8c1a-a8f2c80504fd" />
 
 
